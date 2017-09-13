@@ -1,0 +1,2 @@
+# CMUsphinx
+Embedded speech recognition
